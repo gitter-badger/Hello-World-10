@@ -5,5 +5,7 @@
 ### Dev Student
 
 - 우리는 안드로이드 앱을 만드는 일을 합니다!
+
+ > 정확히는 스터디 팀입니다 (앱 하나를 만들려고 모인 스터디 팀?)
 - `디자이너 2명`, `기획자 2명` 그리고 전원이 `개발자` 역할을 수행합니다.
 - 함께 하고싶으시다면? [Join Us](https://docs.google.com/forms/d/1VXeZzSYo9yKGS-M5rNC1g90G24bXOm_BV3mfbsmIe7Y/edit?usp=drive_web)
