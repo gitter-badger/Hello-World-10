@@ -10,5 +10,5 @@
 - `디자이너 2명`, `기획자 2명` 그리고 전원이 `개발자` 역할을 수행합니다.
 - 평균연령 23!
 - 우리는 신촌에서 주말에 한번씩 모입니다.
-- 대신 과제(노예제도)가 있습니다.
+- 대신 과제~~(노예제도)~~가 있습니다.
 - 함께 하고싶으시다면? [Join Us](https://docs.google.com/forms/d/1VXeZzSYo9yKGS-M5rNC1g90G24bXOm_BV3mfbsmIe7Y/edit?usp=drive_web)
