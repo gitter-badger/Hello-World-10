@@ -4,10 +4,6 @@
 
 ### Dev Student
 
-<a href="https://gitter.im/DevStudent?utm_source=share-link&utm_medium=link&utm_campaign=share-link" target="_blank">
-	![gitter](https://raw.githubusercontent.com/DevStudent/Hello-World/master/badge/gitter.png)
-</a>
-
 - 우리는 안드로이드 앱을 만드는 일을 합니다!
 
  > 정확히는 스터디 팀입니다 (앱 하나를 만들려고 모인 스터디 팀?)
